@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Hand-curated, link-checked catalog of 181 Model Context Protocol (MCP) servers in 13 categories. Each entry has a URL, description, category, language, provider, tags, and an official flag. The interactive map, JSON API, and these files are generated from the same data.
+> Hand-curated, link-checked catalog of 183 Model Context Protocol (MCP) servers in 13 categories. Each entry has a URL, description, category, language, provider, tags, and an official flag. The interactive map, JSON API, and these files are generated from the same data.
 
 MCP is an open protocol that lets AI applications connect to external tools and data through a standardized client-server interface. This catalog lists well-scoped, source-available servers for databases, developer tools, browsers, cloud services, and more. Entries are reviewed for a clear purpose, a public source, and recent or official maintenance. Links are checked on every pull request and weekly.
 
@@ -215,6 +215,7 @@ Links under each category point at the upstream project, docs, or registry page.
 - [Square MCP Server](https://github.com/square/square-mcp-server): Process Square payments and manage point-of-sale operations. (TypeScript, official)
 - [Statsnet](https://github.com/usenetstate/statsnet-mcp): Company data for Kazakhstan, Uzbekistan and Kyrgyzstan: registration, executives and finances. (TypeScript, official)
 - [Stripe MCP Server](https://github.com/stripe/agent-toolkit): Manage Stripe payments, customers, and subscriptions via MCP tools. (TypeScript, official)
+- [Synci](https://github.com/synciio/synci-mcp): Read-only bank, brokerage, and crypto accounts: balances, transactions, holdings, and connection health. (Other, official)
 - [Worklittle Jobs](https://github.com/worklittle/jobs-mcp): Remote job search MCP for exploring 4 million roles with visa, salary, and distance filters, swiping to apply, and saving roles to a Worklittle account via OAuth. (Other)
 - [Zovo Invoice Generator](https://github.com/theluckystrike/mcp-invoice-generator): Invoice creation, line items, totals, and PDF-ready billing documents over MCP; also available as a hosted Streamable HTTP endpoint. (TypeScript)
 - [Zovo Invoice MCP](https://github.com/theluckystrike/mcp-servers/tree/main/servers/invoice): Local PDF invoicing with sequential numbering, VAT per rate, and client management; also sold as a hosted streamable endpoint. (TypeScript)
@@ -231,6 +232,7 @@ Links under each category point at the upstream project, docs, or registry page.
 - [mcp-trellis](https://github.com/amir1824/mcp-trellis): Zero-dependency TypeScript library that ships an MCP handler and OAuth 2.1 authorization server in one package for Claude, Gemini, and Codex connectors. (TypeScript)
 - [MCPJungle](https://github.com/duaraghav8/MCPJungle): Self-hosted MCP server registry for enterprise AI agent deployments. (Go)
 - [MetaMCP](https://github.com/metatool-ai/metatool-app): Middleware MCP server that aggregates and manages multiple connections. (TypeScript)
+- [TableJourney](https://github.com/lewismvaughan/tablejourney-mcp): Where to eat in 222 cities, signature dishes, and dates of the next edition of 1,480 food festivals, each place with the source it was checked against; hosted, no auth. (Python, official)
 - [Weather MCP Server](https://github.com/isdaniel/mcp_weather_server): Fetch current weather and forecasts from public weather APIs. (Python)
 
 ## Optional
