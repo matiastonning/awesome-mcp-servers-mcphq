@@ -1771,6 +1771,25 @@
     "official": true
   },
   {
+    "name": "Synci",
+    "url": "https://github.com/synciio/synci-mcp",
+    "description": "Read-only bank, brokerage, and crypto accounts: balances, transactions, holdings, and connection health.",
+    "category": "finance-commerce-and-business-apps",
+    "language": "Other",
+    "provider": "Synci",
+    "tags": [
+      "banking",
+      "personal-finance",
+      "open-banking",
+      "oauth",
+      "read-only"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://api.synci.io/mcp"
+    }
+  },
+  {
     "name": "Shopify MCP Server",
     "url": "https://github.com/GeLi2001/shopify-mcp",
     "description": "Community-maintained integration for Shopify products, orders, and store operations.",
